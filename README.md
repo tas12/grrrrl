@@ -16,13 +16,16 @@ We want to curate a list of great videos, tag them and showcase them for all to 
 These are suggested wireframes. If you want to edit them contact @tas12 so she can add you as a collaborator on moqups (or you can start from scratch).
 
 ### Home
-![home](./assets/wireframes/home.png)
+<img src="./assets/wireframes/home.png" max-width=500 />
 
 ### Discover
-![discover](./assets/wireframes/discover.png)
+<img src="./assets/wireframes/discover.png" max-width=500 />
 
 ### Results
-![results](./assets/wireframes/results.png)
+<img src="./assets/wireframes/results.png" max-width=500 />
+
+### View
+<img src="./assets/wireframes/view.png" max-width=500 />
 
 ### Submit a talk
-![submit](./assets/wireframes/submit.png)
+<img src="./assets/wireframes/submit.png" max-width=500 />
